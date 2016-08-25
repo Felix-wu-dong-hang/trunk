@@ -1,0 +1,19 @@
+我的地址:https://github.com/Felix-wu-dong-hang/trunk
+打开 git bash here
+git clone https://github.com/Felix-wu-dong-hang/trunk
+git checkout +文件名    恢复本地删除的文件
+git init wdh   创建新的分支仓库
+git add    git add 命令可将该文件添加到缓存   git add wdh.py
+touch wdh.py 创建一个新的文件
+git status -s 查看git状态
+git diff    查看执行 git status 的结果的详细信息。
+尚未缓存的改动：git diff
+查看已缓存的改动： git diff --cached
+查看已缓存的与未缓存的所有改动：git diff HEAD
+显示摘要而非整个 diff：git diff --stat
+使用 git add 命令将想要快照的内容写入缓存区， 而执行 git commit 将缓存区内容添加到仓库中。
+
+不用git add 提交 git commit -a
+git reset HEAD 取消git add提交的缓存
+git rm 删除文件
+git mv  重命名磁盘上的文件，然后再执行 git add 把新文件添加到缓存区。
