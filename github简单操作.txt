@@ -1,4 +1,5 @@
 我的地址:https://github.com/Felix-wu-dong-hang/trunk
+刘耀的地址 https://github.com/iyaoyao
 打开 git bash here
 git clone https://github.com/Felix-wu-dong-hang/trunk
 git checkout +文件名    恢复本地删除的文件
