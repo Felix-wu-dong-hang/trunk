@@ -17,3 +17,4 @@ git diff    查看执行 git status 的结果的详细信息。
 git reset HEAD 取消git add提交的缓存
 git rm 删除文件
 git mv  重命名磁盘上的文件，然后再执行 git add 把新文件添加到缓存区。
+git pull 更新代码
